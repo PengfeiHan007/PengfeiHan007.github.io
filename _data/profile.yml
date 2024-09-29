@@ -48,11 +48,10 @@ education:
   position: B.Eng in Mechatronics Engineering
   date: Sep. 2017 - Mar. 2021
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Zhejiang University
+  position: Research Assistant
+  date: Apr. 2024 - Oct. 2024
 
 
 awards:
