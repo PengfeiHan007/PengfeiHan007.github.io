@@ -35,21 +35,25 @@ portrait_url: /assets/images/photos/1.jpeg
 
 education:
 - name: University of Twente
+  logo: 
   position: Ph.D. Student in Biomedical Engineering
   date: Nov. 2024 - present
 
 education:
 - name: Zhejiang University
+  logo: 
   position: M.Eng in Mechanical Engineering
   date: Sep. 2021 - Mar. 2024
 
 education:
 - name: Zhejiang University
+  logo: 
   position: B.Eng in Mechatronics Engineering
   date: Sep. 2017 - Mar. 2021
 
 experience:
 - name: Zhejiang University
+  logo: 
   position: Research Assistant
   date: Apr. 2024 - Oct. 2024
 
