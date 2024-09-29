@@ -29,15 +29,24 @@ short_bio: >-
     Pengfei joined the Biomedical Device Design and Production Technology (BDDP) group in 2024.
   </p>
 
-portrait_url: /assets/images/photos/1.jpg
+portrait_url: /assets/images/photos/1.jpeg
 #portrait_caption: >-
  # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: Ph.D. Student in Computer Science
-  date: Sep. 2024 - present
+- name: University of Twente
+  position: Ph.D. Student in Biomedical Engineering
+  date: Nov. 2024 - present
+
+education:
+- name: Zhejiang University
+  position: M.Eng in Mechanical Engineering
+  date: Sep. 2021 - Mar. 2024
+
+education:
+- name: Zhejiang University
+  position: B.Eng in Mechatronics Engineering
+  date: Sep. 2017 - Mar. 2021
 
 # experience:
 # - name: Peking University
