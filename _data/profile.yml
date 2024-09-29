@@ -4,7 +4,9 @@ navbar_name: "Pengfei Han"
 
 positions:
 - name: University of Twente
+  logo: /assets/images/photos/UT_Logo_2400_Sta_Black_EN.png
 - name: Zhejiang University
+  logo: /assets/images/photos/zjulogo.jpeg
 
 
 email: "pfhan@zju.edu.cn"
